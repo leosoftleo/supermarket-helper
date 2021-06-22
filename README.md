@@ -19,8 +19,6 @@ The user can add the new item to the cart by using drag and drop. The cart icon 
 
 The cart page shows the product information. The user can remove a single item or the whole list.
 
-## Reflection
-
 ## Disclaimer
 This project is for educational purposes only. It doesn't guarantee the accuracy and completeness of the information.
 
