@@ -11,6 +11,13 @@ The user can select the categories to filter the products.
 
 https://user-images.githubusercontent.com/46346337/122976533-09205a80-d3c7-11eb-9e3c-e9315eb6c314.mov
 
+The product table also provides sorting functions.
+
+
+### Cart
+The user can add the new item to the cart by using drag and drop. The cart icon will show the number of products.
+
+The cart page shows the product information. The user can remove a single item or the whole list.
 
 ## Reflection
 
