@@ -22,6 +22,8 @@ https://user-images.githubusercontent.com/46346337/122981102-fb210880-d3cb-11eb-
 
 The cart page shows the product information. The user can remove a single item or the whole list.
 
+https://user-images.githubusercontent.com/46346337/122981284-27d52000-d3cc-11eb-8bac-7b6199c8ca6e.mov
+
 ## Disclaimer
 This project is for educational purposes only. It doesn't guarantee the accuracy and completeness of the information.
 
