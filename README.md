@@ -9,6 +9,8 @@ This project aims to design and implement a simple supermarket utility. The func
 ### Product Table
 The user can select the categories to filter the products.
 
+https://user-images.githubusercontent.com/46346337/122976533-09205a80-d3c7-11eb-9e3c-e9315eb6c314.mov
+
 
 ## Reflection
 
